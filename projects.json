@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "name": "HTML5",
+      "level": 95
+    },
+    {
+      "name": "CSS3",
+      "level": 90
+    },
+    {
+      "name": "JavaScript",
+      "level": 85
+    },
+    {
+      "name": "React",
+      "level": 80
+    },
+    {
+      "name": "Vue.js",
+      "level": 75
+    },
+    {
+      "name": "TypeScript",
+      "level": 70
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sistema de Gestão",
+      "description": "Sistema completo de gestão empresarial com dashboard interativo.",
+      "image": "assets/images/project1.jpg",
+      "tags": ["React", "Node.js", "MongoDB"],
+      "demo": "https://demo.com",
+      "code": "https://github.com/user/project1"
+    },
+    {
+      "title": "E-commerce Platform",
+      "description": "Plataforma de e-commerce com carrinho de compras e pagamento integrado.",
+      "image": "assets/images/project2.jpg",
+      "tags": ["Vue.js", "Express", "PostgreSQL"],
+      "demo": "https://demo.com",
+      "code": "https://github.com/user/project2"
+    },
+    {
+      "title": "App de Task Manager",
+      "description": "Aplicativo de gerenciamento de tarefas com sincronização em tempo real.",
+      "image": "assets/images/project3.jpg",
+      "tags": ["React Native", "Firebase"],
+      "demo": "https://demo.com",
+      "code": "https://github.com/user/project3"
+    }
+  ]
+}
